@@ -1,6 +1,6 @@
 # 🎬 Movie Ratings Linear Regression 📊
 
-Analyzing which movie features influence ratings using linear regression.
+Analysing which and if movie features influence ratings using linear regression.
 
 
 ## ✨ What it Does
