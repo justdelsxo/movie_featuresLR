@@ -21,7 +21,7 @@ Analysing which and if movie features influence ratings using linear regression.
 1. 📥 Load your movie dataset  
 2. 🧹 Clean and preprocess the data  
 3. 🏋️‍♂️ Train the linear regression model on ratings  
-4. 🔍 Analyze feature contributions and coefficients  
+4. 🔍 Analyse feature contributions and coefficients  
 5. 🎯 Use the model to understand ratings drivers  
 
 
